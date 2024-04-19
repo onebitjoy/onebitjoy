@@ -9,9 +9,9 @@ improving myself everyday
 * 🌍  I'm based in Kanpur, India
 * 🖥️  See my portfolio at [Github](http://www.github.com/onebitjoy)
 * ✉️  You can contact me at [kharwarabhishek82@gmail.com](mailto:kharwarabhishek82@gmail.com)
-* 🚀  I'm currently working on [Movies Node.js Application using MVC](http://github.com/onebitjoy/moviesnodejs)
+* 🚀  I'm currently working on [Food Ordering Application](https://github.com/onebitjoy/FoodCo.)
 * 🧠  I'm learning React, MongoDB, Node.js and Express.js
-* 🤝  I'm open to collaborating on Node.js and React applications
+* 🤝  I'm open to collaboration on Node.js and React applications
 
 <a href="https://www.github.com/onebitjoy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/onebitjoy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Abhiunx" target="_blank" rel="noreferrer"><img
@@ -42,6 +42,5 @@ src="https://img.shields.io/twitter/follow/Abhiunx?logo=twitter&style=for-the-ba
 
 <div width="100%" align="center"><a href="https://github.com/onebitjoy/moviesnodejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onebitjoy&repo=moviesnodejs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/onebitjoy/task-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onebitjoy&repo=task-manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/onebitjoy/Node.js-Chat-Application" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onebitjoy&repo=Node.js-Chat-Application&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/onebitjoy/onebitjoy-weatherapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=onebitjoy&repo=onebitjoy-weatherapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
